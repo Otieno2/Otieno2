@@ -212,10 +212,6 @@ A snapshot of my public development activity.
   <img width="75%" src="https://streak-stats.demolab.com?user=Otieno2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Otieno2&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
 ---
 
 ## 07. Learning and Growth
