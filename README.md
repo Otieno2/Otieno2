@@ -198,13 +198,14 @@ The technologies displayed reflect my project ecosystem and areas of exploration
 
 ---
 
+
 ## 06. GitHub Statistics
 
 A snapshot of my public development activity.
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Otieno2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Otieno2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Otieno2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Otieno2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
